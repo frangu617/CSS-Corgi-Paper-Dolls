@@ -1,0 +1,31 @@
+.funny-glasses{
+    position: relative;
+    top: -108px;
+    left: 213px;
+}
+.bandana{
+    width: 80px;
+    transform: rotate(10deg);
+    position: relative;
+    top: -61px;
+    right: 125px;
+}
+.pawprint{
+    width: 45px;
+    position: fixed;
+    top: 45px;
+    left: 63px;
+    z-index: 1;
+}
+.sticky img{
+    margin-right: 1em;
+    position: sticky;
+    left: 0;
+}
+.top-hat{
+    position: relative;
+    left: 133px;
+    top: -10px;
+    width: 40px;
+    z-index: 12;
+}
